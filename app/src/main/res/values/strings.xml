@@ -1,0 +1,17 @@
+<resources>
+    <string name="country_name_translations"><b>Name translations:</b> </string>
+    <string name="country_region"><b>Region:</b> </string>
+    <string name="country_borders"><b>Borders:</b> </string>
+    <string name="country_capital"><b>Capital:</b> </string>
+    <string name="country_population"><b>Population:</b> </string>
+    <string name="country_languages"><b>Languages:</b> </string>
+    <string name="country_currencies"><b>Currencies:</b> </string>
+    <string name="country_location"><b>Location:</b> </string>
+    <string name="snackbar_action_retry">Retry</string>
+    <string name="menu_item_licenses">Licenses</string>
+    <string name="tab_title_all">All</string>
+    <string name="tab_title_favorites">Favorites</string>
+    <string name="menu_item_favorite">Favorite</string>
+    <string name="menu_item_maps">Show on map</string>
+    <string name="toolbar_title_detail">Country Detail</string>
+</resources>
